@@ -14,15 +14,13 @@ I'm a Full Stack .NET Developer , Senior CS Student.
 
 
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ Training & Certifications</h2>
 <ul>
-<li>🔭 Currently working on improving my .NET backend skills & building full-stack personal projects.</li>
-<li>🧠 Deep diving into <strong>ASP.NET Core</strong>, <strong>Entity Framework</strong>, and <strong>Clean Architecture</strong>.</li>
-<li>👩‍💻 Most of my projects live on <a href="https://github.com/">GitHub</a>.</li>
-<li>✍️ Planning to share tips about web development & backend logic.</li>
-<li>💬 Ask me about <strong>.NET, SQL, C#, JavaScript, or Frontend magic</strong>.</li>
-<li>📄 My resume will be available soon.</li>
+<li>🎓 .NET Web Development – Information Technology Institute (ITI)</li>
+<li>📘 Front-End Angular Track – Route Academy</li>
+<li>🏅 Mentorship Program – Deloitte</li>
 </ul>
+
 
 <h2>🚀 Tech Stack</h2>
 <p align="left">
