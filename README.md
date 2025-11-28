@@ -5,12 +5,19 @@ I'm a Full Stack .NET Developer , Senior CS Student.
 </p>
 
 <p>
-<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/taghreed-basuny-2212a0250/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge"></a>
-<a href="[https://github.com/Taghreed](https://github.com/TaghreedBasuny)"><img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=github" alt="GitHub Badge"></a>
-<a href="taghreedbasuny6@gmail.com">
+<a href="https://www.linkedin.com/in/taghreed-basuny-2212a0250/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge">
+</a>
+
+<a href="https://github.com/TaghreedBasuny">
+    <img src="https://img.shields.io/badge/-GitHub-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=github" alt="GitHub Badge">
+</a>
+
+<a href="mailto:taghreedbasuny6@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white" alt="Email Badge">
 </a>
 </p>
+
 
 
 
@@ -32,7 +39,7 @@ I'm a Full Stack .NET Developer , Senior CS Student.
 
 
 
-<h2>🚀 Tech Stack</h2>
+<h2> Tech Stack</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="25" height="25" />
