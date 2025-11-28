@@ -16,9 +16,13 @@ I'm a Full Stack .NET Developer , Senior CS Student.
 <a href="mailto:taghreedbasuny6@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white" alt="Email Badge">
 </a>
+
+<a href="https://wa.me/201027912846">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge">
+</a>
 </p>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white)](mailto:taghreedbasuny6@gmail.com)
+
 
 
 
