@@ -16,10 +16,20 @@ I'm a Full Stack .NET Developer , Senior CS Student.
 
 <h2>⚡️ Training & Certifications</h2>
 <ul>
-<li>🎓 .NET Web Development – Information Technology Institute (ITI)</li>
-<li>📘 Front-End Angular Track – Route Academy</li>
-<li>🏅 Mentorship Program – Deloitte</li>
+<li> .NET Web Development – Information Technology Institute (ITI)</li>
+<li> Front-End Angular Track – Route Academy</li>
+<li> Mentorship Program – Deloitte</li>
 </ul>
+
+<h2>🥇 Achievements</h2>
+<ul>
+ <li>🥈 Silver Medal – Huawei ICT Competition (Cloud Track) 2024</li>
+<li>✈ NASA Space Apps Cairo 2025 – Global Hackathon Participant</li>
+<li> ⚡ Zag Eng Family Workshop – 2nd Best Team + Fast Debugger Award</li>
+<li>💻 Participated in the Egyptian Collegiate Programming Contest (ECPC) for two consecutive years</li>
+
+</ul>
+
 
 
 <h2>🚀 Tech Stack</h2>
