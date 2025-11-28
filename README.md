@@ -18,6 +18,9 @@ I'm a Full Stack .NET Developer , Senior CS Student.
 </a>
 </p>
 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=Gmail&logoColor=white)](mailto:taghreedbasuny6@gmail.com)
+
+
 
 
 
