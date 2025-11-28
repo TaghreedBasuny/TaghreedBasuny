@@ -13,7 +13,6 @@ I'm a Full Stack .NET Developer , Senior CS Student.
 </p>
 
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
