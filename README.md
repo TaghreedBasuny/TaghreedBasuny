@@ -21,6 +21,7 @@ I'm a Full Stack .NET Developer , Senior CS Student.
 
 
 
+
 <h2>⚡️ Training & Certifications</h2>
 <ul>
 <li> .NET Web Development – Information Technology Institute (ITI)</li>
